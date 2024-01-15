@@ -1,0 +1,6 @@
+[defaults]
+group = Guilsia_flask
+sku = B1
+appserviceplan = Guilsiaflask-a582
+location = eastus
+web = guilsia
